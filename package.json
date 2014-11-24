@@ -1,5 +1,5 @@
 {
-  "name": "bank-node",
+  "name": "cloudbank-node",
   "version": "0.0.0",
   "private": true,
   "scripts": {
